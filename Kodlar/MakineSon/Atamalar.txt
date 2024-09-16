@@ -1,0 +1,198 @@
+İLÇELER
+{'Adalar': 0, 'Arnavutköy': 1, 'Ataşehir': 2, 'Avcılar': 3, 'Bahçelievler': 4, 'Bakırköy': 5, 'Bayrampaşa': 6, 'Bağcılar': 7, 
+'Başakşehir': 8, 'Beykoz': 9, 'Beylikdüzü': 10, 'Beyoğlu': 11, 'Beşiktaş': 12, 'Büyükçekmece': 13, 'Esenler': 14, 'Esenyurt': 15,
+ 'Eyüpsultan': 16, 'Fatih': 17, 'Gaziosmanpaşa': 18, 'Güngören': 19, 'Kadıköy': 20, 'Kartal': 21, 'Kağıthane': 22, 'Küçükçekmece': 23, 
+'Maltepe': 24, 'Pendik': 25, 'Sancaktepe': 26, 'Sarıyer': 27, 'Silivri': 28, 'Sultanbeyli': 29, 'Sultangazi': 30, 'Tuzla': 31, 
+'Zeytinburnu': 32, 'Çatalca': 33, 'Çekmeköy': 34, 'Ümraniye': 35, 'Üsküdar': 36, 'Şile': 37, 'Şişli': 38}
+
+
+MAHALLELER
+{'100. Yıl Mahallesi': 0, '15 Temmuz Mahallesi': 1, '19 Mayıs Mahallesi': 2, '5. Levent Mahallesi': 3, '50. Yıl Mahallesi': 4, '75. Yıl Mahallesi': 5, 'Abbasağa Mahallesi': 6, 'Abdurrahman Nafiz Gürman Mahallesi': 7, 'Abdurrahmangazi Mahallesi': 8, 'Acarlar Mahallesi': 9, 'Acıbadem Mahallesi': 10, 'Adem Yavuz Mahallesi': 11, 'Adil Mahallesi': 12, 'Adnan Kahveci Mahallesi': 13, 'Adnan Menderes Mahallesi': 14, 'Ahmediye Mahallesi': 15, 'Ahmet Yesevi Mahallesi': 16, 'Ahmetli Mahallesi': 17, 'Akat Mahallesi': 18, 'Akevler Mahallesi': 19, 'Akpınar Mahallesi': 20, 'Aksaray Mahallesi': 21, 'Akçaburgaz Mahallesi': 22, 'Akçakese Mahallesi': 23, 'Akören Mahallesi': 24, 'Akıncılar Mahallesi': 25, 'Akşemseddin Mahallesi': 26, 'Akşemsettin Mahallesi': 27, 'Alemdağ Mahallesi': 28, 'Ali Kuşçu Mahallesi': 29, 'Alibey Mahallesi': 30, 'Alibeyköy Mahallesi': 31, 'Alipaşa Mahallesi': 32, 'Alkent 2000 Mahallesi': 33, 'Altayçeşme Mahallesi': 34, 'Altunizade Mahallesi': 35, 'Altıntepe Mahallesi': 36, 'Altıntepsi Mahallesi': 37, 'Altınşehir Mahallesi': 38, 'Ambarlı Mahallesi': 39, 'Anadolu Hisarı Mahallesi': 40, 'Anadolu Kavağı Mahallesi': 41, 'Anadolu Mahallesi': 42, 'Arap Cami Mahallesi': 43, 'Ardıçlı Mahallesi': 44, 'Armağanevler Mahallesi': 45, 'Arnavutköy Mahallesi': 46, 'Arnavutköy Merkez Mahallesi': 47, 'Atakent Mahallesi': 48, 'Ataköy 1. Kısım Mahallesi': 49, 'Ataköy 2-5-6. Kısım Mahallesi': 50, 'Ataköy 3-4-11. Kısım Mahallesi': 51, 'Ataköy 7-8-9-10. Kısım Mahallesi': 52, 'Atalar Mahallesi': 53, 'Atatürk Mahallesi': 54, 'Atikali Mahallesi': 55, 'Ayazağa Mahallesi': 56, 'Aydınevler Mahallesi': 57, 'Aydınlar Mahallesi': 58, 'Aydınlı Mahallesi': 59, 'Aydıntepe Mahallesi': 60, 'Ayvansaray Mahallesi': 61, 'Aziz Mahmut Hüdayi Mahallesi': 62, 'Ağva Merkez Mahallesi': 63, 'Aşağı Dudullu Mahallesi': 64, 'Aşık Veysel Mahallesi': 65, 'Aşıkveysel Mahallesi': 66, 'Bahçeköy Kemer Mahallesi': 67, 'Bahçeköy Merkez Mahallesi': 68, 'Bahçeköy Yeni Mahallesi': 69, 'Bahçelievler Mahallesi': 70, 'Bahçeşehir 1. Kısım Mahallesi': 71, 'Bahçeşehir 2. Kısım Mahallesi': 72, 'Balat Mahallesi': 73, 'Balibey Mahallesi': 74, 'Balmumcu Mahallesi': 75, 'Baltalimanı Mahallesi': 76, 'Balıkyolu Mahallesi': 77, 'Balıkçı Adası': 78, 'Barbaros Hayrettin Paşa Mahallesi': 79, 'Barbaros Hayrettinpaşa Mahallesi': 80, 'Barbaros Mahallesi': 81, 'Barış Mahallesi': 82, 'Basınköy Mahallesi': 83, 'Battalgazi Mahallesi': 84, 'Batı Mahallesi': 85, 'Bağlar Mahallesi': 86, 'Bağlarbaşı Mahallesi': 87, 'Bağlarçeşme Mahallesi': 88, 'Başak Mahallesi': 89, 'Başakşehir Mahallesi': 90, 'Başıbüyük Mahallesi': 91, 'Bebek Mahallesi': 92, 'Bereketzade Mahallesi': 93, 'Beyazıt Mahallesi': 94, 'Beylerbeyi Mahallesi': 95, 'Beylikdüzü OSB Mahallesi': 96, 'Beştelsiz Mahallesi': 97, 'Beşyol Mahallesi': 98, 'Binbirdirek Mahallesi': 99, 'Birlik Mahallesi': 100, 'Bolluca Mahallesi': 101, 'Bostan Mahallesi': 102, 'Bostancı Mahallesi': 103, 'Boyalık Mahallesi': 104, 'Bozkurt Mahallesi': 105, 'Boğazköy İstiklal Mahallesi': 106, 'Bulgurlu Mahallesi': 107, 'Burgazada Mahallesi': 108, 'Burhaniye Mahallesi': 109, 'Bülbül Mahallesi': 110, 'Büyük Kılıçlı Mahallesi': 111, 'Büyükdere Mahallesi': 112, 'Büyükşehir Mahallesi': 113, 'Caddebostan Mahallesi': 114, 'Caferağa Mahallesi': 115, 'Cami Mahallesi': 116, 'Camiikebir Mahallesi': 117, 'Cebeci Mahallesi': 118, 'Celaliye Mahallesi': 119, 'Cemil Meriç Mahallesi': 120, 'Cennet Mahallesi': 121, 'Cerrahpaşa Mahallesi': 122, 'Cevatpaşa Mahallesi': 123, 'Cevizli Mahallesi': 124, 'Cevizlik Mahallesi': 125, 'Cibali Mahallesi': 126, 'Cihangir Mahallesi': 127, 'Cihannüma Mahallesi': 128, 'Cumhuriyet Mahallesi': 129, 'Darüşşafaka Mahallesi': 130, 'Davutpaşa Mahallesi': 131, 'Dağyenice Mahallesi': 132, 'Defterdar Mahallesi': 133, 'Deliklikaya Mahallesi': 134, 'Demirkapı Mahallesi': 135, 'Denizköşkler Mahallesi': 136, 'Dereağzı Mahallesi': 137, 'Derviş Ali Mahallesi': 138, 'Değirmenköy Fevzipaşa Mahallesi': 139, 'Değirmenköy İsmetpaşa Mahallesi': 140, 'Dikilitaş Mahallesi': 141, 'Dizdariye Mahallesi': 142, 'Doğu Mahallesi': 143, 'Duatepe Mahallesi': 144, 'Dudullu OSB Mahallesi': 145, 'Dumlupınar Mahallesi': 146, 'Düğmeciler Mahallesi': 147, 'Ekinoba Mahallesi': 148, 'Ekşioğlu Mahallesi': 149, 'Elmalıkent Mahallesi': 150, 'Emek Mahallesi': 151, 'Emirgan Mahallesi': 152, 'Emniyet Evleri Mahallesi': 153, 'Emniyettepe Mahallesi': 154, 'Erenköy Mahallesi': 155, 'Ergenekon Mahallesi': 156, 'Ertuğrul Gazi Mahallesi': 157, 'Esatpaşa Mahallesi': 158, 'Esenevler Mahallesi': 159, 'Esenkent Mahallesi': 160, 'Esenler Mahallesi': 161, 'Esentepe Mahallesi': 162, 'Esenyalı Mahallesi': 163, 'Esenşehir Mahallesi': 164, 'Eski Habipler Mahallesi': 165, 'Eskişehir Mahallesi': 166, 'Etiler Mahallesi': 167, 'Evliya Çelebi Mahallesi': 168, 'Eyüp Sultan Mahallesi': 169, 'Eğitim Mahallesi': 170, 'Fatih Mahallesi': 171, 'Fatih Sultan Mehmet Mahallesi': 172, 'Fenerbahçe Mahallesi': 173, 'Feneryolu Mahallesi': 174, 'Ferah Mahallesi': 175, 'Ferahevler Mahallesi': 176, 'Ferhatpaşa Mahallesi': 177, 'Feriköy Mahallesi': 178, 'Fetih Mahallesi': 179, 'Fetihtepe Mahallesi': 180, 'Fevzi Çakmak Mahallesi': 181, 'Feyzullah Mahallesi': 182, 'Fikirtepe Mahallesi': 183, 'Finanskent Mahallesi': 184, 'Firuzağa Mahallesi': 185, 'Firuzköy Mahallesi': 186, 'Fulya Mahallesi': 187, 'Fındıklı Mahallesi': 188, 'Gayrettepe Mahallesi': 189, 'Gazi Mahallesi': 190, 'Gençosman Mahallesi': 191, 'Geredeli Mahallesi': 192, 'Girne Mahallesi': 193, 'Gökalp Mahallesi': 194, 'Gökevler Mahallesi': 195, 'Göktürk Merkez Mahallesi': 196, 'Göztepe Mahallesi': 197, 'Gülbahar Mahallesi': 198, 'Gülensu Mahallesi': 199, 'Güllü Bağlar Mahallesi': 200, 'Gülsuyu Mahallesi': 201, 'Gültepe Mahallesi': 202, 'Gümüşpala Mahallesi': 203, 'Gümüşpınar Mahallesi': 204, 'Gümüşsuyu Mahallesi': 205, 'Gümüşyaka Mahallesi': 206, 'Güneşli Mahallesi': 207, 'Güneştepe Mahallesi': 208, 'Güngören Mahallesi': 209, 'Gürpınar Mahallesi': 210, 'Gürsel Mahallesi': 211, 'Güven Mahallesi': 212, 'Güvercintepe Mahallesi': 213, 'Güzelce Mahallesi': 214, 'Güzeltepe Mahallesi': 215, 'Güzelyalı Mahallesi': 216, 'Güzelyurt Mahallesi': 217, 'Habibler Mahallesi': 218, 'Hacı Kasım Mahallesi': 219, 'Hacıahmet Mahallesi': 220, 'Hacımimi Mahallesi': 221, 'Hadımköy Mahallesi': 222, 'Halaskargazi Mahallesi': 223, 'Halide Edip Adıvar Mahallesi': 224, 'Halil Rıfat Paşa Mahallesi': 225, 'Halkalı Merkez Mahallesi': 226, 'Halıcıoğlu Mahallesi': 227, 'Hamidiye Mahallesi': 228, 'Haraççı Mahallesi': 229, 'Harbiye Mahallesi': 230, 'Harmandere Mahallesi': 231, 'Harmantepe Mahallesi': 232, 'Hasanpaşa Mahallesi': 233, 'Haseki Sultan Mahallesi': 234, 'Hastane Mahallesi': 235, 'Havaalanı Mahallesi': 236, 'Haznedar Mahallesi': 237, 'Hekimbaşı Mahallesi': 238, 'Heybeliada Mahallesi': 239, 'Hicret Mahallesi': 240, 'Hilal Mahallesi': 241, 'Huzur Mahallesi': 242, 'Hürriyet Mahallesi': 243, 'Hırka-i Şerif Mahallesi': 244, 'Ihlamurkuyu Mahallesi': 245, 'Kadımehmet Efendi Mahallesi': 246, 'Kaleiçi Mahallesi': 247, 'Kalyoncu Kulluğu Mahallesi': 248, 'Kamer Hatun Mahallesi': 249, 'Kamiloba Mahallesi': 250, 'Kanarya Mahallesi': 251, 'Kandilli Mahallesi': 252, 'Kanlıca Mahallesi': 253, 'Kaptan Paşa Mahallesi': 254, 'Kaptanpaşa Mahallesi': 255, 'Karaağaç Mahallesi': 256, 'Karadeniz Mahallesi': 257, 'Karadolap Mahallesi': 258, 'Karagümrük Mahallesi': 259, 'Karayolları Mahallesi': 260, 'Karlıbayır Mahallesi': 261, 'Karlıktepe Mahallesi': 262, 'Karlıtepe Mahallesi': 263, 'Kartaltepe Mahallesi': 264, 'Katip Kasım Mahallesi': 265, 'Katip Mustafa Çelebi Mahallesi': 266, 'Kavacık Mahallesi': 267, 'Kavaklı Hürriyet Mahallesi': 268, 'Kavaklı Mahallesi': 269, 'Kavaklı İstiklal Mahallesi': 270, 'Kavakpınar Mahallesi': 271, 'Kayabaşı Mahallesi': 272, 'Kaynarca Mahallesi': 273, 'Kayışdağı Mahallesi': 274, 'Kazlıçeşme Mahallesi': 275, 'Kazım Karabekir Mahallesi': 276, 'Kazım Karabekir Paşa Mahallesi': 277, 'Kemal Türkler Mahallesi': 278, 'Kemalpaşa Mahallesi': 279, 'Kemer Mahallesi': 280, 'Keçeci Piri Mahallesi': 281, 'Kirazlı Mahallesi': 282, 'Kirazlıdere Mahallesi': 283, 'Kirazlıtepe Mahallesi': 284, 'Kireçburnu Mahallesi': 285, 'Koca Mustafapaşa Mahallesi': 286, 'Kocasinan Merkez Mahallesi': 287, 'Kocataş Mahallesi': 288, 'Kocatepe Mahallesi': 289, 'Konaklar Mahallesi': 290, 'Kordonboyu Mahallesi': 291, 'Koza Mahallesi': 292, 'Kozyatağı Mahallesi': 293, 'Koşuyolu Mahallesi': 294, 'Kulaksız Mahallesi': 295, 'Kuloğlu Mahallesi': 296, 'Kumburgaz Mahallesi': 297, 'Kumköy Mahallesi': 298, 'Kurtköy Mahallesi': 299, 'Kuruçeşme Mahallesi': 300, 'Kuzguncuk Mahallesi': 301, 'Kuştepe Mahallesi': 302, 'Kültür Mahallesi': 303, 'Küplüce Mahallesi': 304, 'Küçük Piyale Mahallesi': 305, 'Küçük Çamlıca Mahallesi': 306, 'Küçükbakkalköy Mahallesi': 307, 'Küçüksu Mahallesi': 308, 'Küçükyalı Mahallesi': 309, 'Kılıçali Paşa Mahallesi': 310, 'Kınalıada Mahallesi': 311, 'Kısıklı Mahallesi': 312, 'Kısırkaya Mahallesi': 313, 'Levazım Mahallesi': 314, 'Levent Mahallesi': 315, 'Maden Mahallesi': 316, 'Madenler Mahallesi': 317, 'Mahmut Şevket Paşa Mahallesi': 318, 'Mahmutbey Mahallesi': 319, 'Malkoçoğlu Mahallesi': 320, 'Maltepe Mahallesi': 321, 'Mareşal Fevzi Çakmak Mahallesi': 322, 'Mareşal Çakmak Mahallesi': 323, 'Marmara Mahallesi': 324, 'Maslak Mahallesi': 325, 'Mavigöl Mahallesi': 326, 'Mecidiye Mahallesi': 327, 'Mecidiyeköy Mahallesi': 328, 'Meclis Mahallesi': 329, 'Mehmet Akif Ersoy Mahallesi': 330, 'Mehmet Akif Mahallesi': 331, 'Mehmet Nesih Özmen Mahallesi': 332, 'Mehterçeşme Mahallesi': 333, 'Menderes Mahallesi': 334, 'Merdivenköy Mahallesi': 335, 'Merkez Mahallesi': 336, 'Merkezefendi Mahallesi': 337, 'Merve Mahallesi': 338, 'Mescit Mahallesi': 339, 'Mevlana Mahallesi': 340, 'Mevlanakapı Mahallesi': 341, 'Meşrutiyet Mahallesi': 342, 'Mimar Sinan Mahallesi': 343, 'Mimar Sinan Merkez Mahallesi': 344, 'Mimaroba Mahallesi': 345, 'Mithatpaşa Mahallesi': 346, 'Molla Gürani Mahallesi': 347, 'Muhsine Hatun Mahallesi': 348, 'Muradiye Mahallesi': 349, 'Murat Reis Mahallesi': 350, 'Murat Çeşme Mahallesi': 351, 'Muratpaşa Mahallesi': 352, 'Mustafa Kemal Mahallesi': 353, 'Mustafa Kemal Paşa Mahallesi': 354, 'Müeyyetzade Mahallesi': 355, 'Namık Kemal Mahallesi': 356, 'Necip Fazıl Kısakürek Mahallesi': 357, 'Necip Fazıl Mahallesi': 358, 'Nenehatun Mahallesi': 359, 'Nine Hatun Mahallesi': 360, 'Nisbetiye Mahallesi': 361, 'Nizam Mahallesi': 362, 'Nişanca Mahallesi': 363, 'Nişancı Mahallesi': 364, 'Nişantepe Mahallesi': 365, 'Nuripaşa Mahallesi': 366, 'Nurtepe Mahallesi': 367, 'Orhan Gazi Mahallesi': 368, 'Orhangazi Mahallesi': 369, 'Orhanlı Mahallesi': 370, 'Orhantepe Mahallesi': 371, 'Orta Mahallesi': 372, 'Ortabayır Mahallesi': 373, 'Ortaköy Mahallesi': 374, 'Ortaçeşme Mahallesi': 375, 'Oruçreis Mahallesi': 376, 'Osmanağa Mahallesi': 377, 'Osmangazi Mahallesi': 378, 'Osmaniye Mahallesi': 379, 'Parseller Mahallesi': 380, 'Pazariçi Mahallesi': 381, 'Paşa Mahallesi': 382, 'Paşabahçe Mahallesi': 383, 'Petroliş Mahallesi': 384, 'Piri Mehmet Paşa Mahallesi': 385, 'Piri Paşa Mahallesi': 386, 'Piri Reis Mahallesi': 387, 'Pirinççi Mahallesi': 388, 'Piyalepaşa Mahallesi': 389, 'Poligon Mahallesi': 390, 'Postane Mahallesi': 391, 'Ptt Evleri Mahallesi': 392, 'Pürtelaş Hasan Efendi Mahallesi': 393, 'Pınar Mahallesi': 394, 'Pınartepe Mahallesi': 395, 'Ramazanoğlu Mahallesi': 396, 'Rami Cuma Mahallesi': 397, 'Rami Yeni Mahallesi': 398, 'Rasimpaşa Mahallesi': 399, 'Reşadiye Mahallesi': 400, 'Reşitpaşa Mahallesi': 401, 'Riva Mahallesi': 402, 'Rumeli Hisarı Mahallesi': 403, 'Rumelifeneri Mahallesi': 404, 'Saadetdere Mahallesi': 405, 'Safa Mahallesi': 406, 'Sahil Mahallesi': 407, 'Sahrayı Cedit Mahallesi': 408, 'Sakarya Mahallesi': 409, 'Sakızağacı Mahallesi': 410, 'Salacak Mahallesi': 411, 'Sanayi Mahallesi': 412, 'Sancaktepe Mahallesi': 413, 'Sapan Bağları Mahallesi': 414, 'Saray Mahallesi': 415, 'Saraç İshak Mahallesi': 416, 'Sarıgazi Mahallesi': 417, 'Sarıgöl Mahallesi': 418, 'Sarıyer Merkez Mahallesi': 419, 'Selahaddin Eyyubi Mahallesi': 420, 'Selami Ali Mahallesi': 421, 'Selimiye Mahallesi': 422, 'Selimpaşa Mahallesi': 423, 'Semizkumlar Mahallesi': 424, 'Seyitnizam Mahallesi': 425, 'Seyrantepe Mahallesi': 426, 'Seyyid Ömer Mahallesi': 427, 'Silahtarağa Mahallesi': 428, 'Silivrikapı Mahallesi': 429, 'Sinanoba Mahallesi': 430, 'Sinanpaşa Mahallesi': 431, 'Site Mahallesi': 432, 'Siyavuşpaşa Mahallesi': 433, 'Soğanlı Mahallesi': 434, 'Soğanlık Yeni Mahallesi': 435, 'Soğukpınar Mahallesi': 436, 'Soğuksu Mahallesi': 437, 'Suadiye Mahallesi': 438, 'Sultan Murat Mahallesi': 439, 'Sultan Selim Mahallesi': 440, 'Sultaniye Mahallesi': 441, 'Sultantepe Mahallesi': 442, 'Sultançiftliği Mahallesi': 443, 'Sururi Mehmet Efendi Mahallesi': 444, 'Söğütlü Çeşme Mahallesi': 445, 'Süleymaniye Mahallesi': 446, 'Sülüntepe Mahallesi': 447, 'Sümbül Efendi Mahallesi': 448, 'Sümer Mahallesi': 449, 'Sütlüce Mahallesi': 450, 'Tahtakale Mahallesi': 451, 'Talatpaşa Mahallesi': 452, 'Tantavi Mahallesi': 453, 'Tarabya Mahallesi': 454, 'Tatlısu Mahallesi': 455, 'Tayakadın Mahallesi': 456, 'Taşdelen Mahallesi': 457, 'Taşoluk Mahallesi': 458, 'Telsiz Mahallesi': 459, 'Telsizler Mahallesi': 460, 'Tepeören Mahallesi': 461, 'Tepeüstü Mahallesi': 462, 'Terazidere Mahallesi': 463, 'Terkos Mahallesi': 464, 'Tevfik Bey Mahallesi': 465, 'Teşvikiye Mahallesi': 466, 'Tomtom Mahallesi': 467, 'Topkapı Mahallesi': 468, 'Topselvi Mahallesi': 469, 'Topçular Mahallesi': 470, 'Tozkoparan Mahallesi': 471, 'Tuna Mahallesi': 472, 'Turgut Reis Mahallesi': 473, 'Turgut Özal Mahallesi': 474, 'Türkali Mahallesi': 475, 'Türkoba Mahallesi': 476, 'Ulus Mahallesi': 477, 'Uskumruköy Mahallesi': 478, 'Uğur Mumcu Mahallesi': 479, 'Valide-i Atik Mahallesi': 480, 'Vatan Mahallesi': 481, 'Velibaba Mahallesi': 482, 'Veliefendi Mahallesi': 483, 'Veysel Karani Mahallesi': 484, 'Vişnezade Mahallesi': 485, 'Yahya Kahya Mahallesi': 486, 'Yahya Kemal Mahallesi': 487, 'Yakacık Yeni Mahallesi': 488, 'Yakacık Çarşı Mahallesi': 489, 'Yakuplu Mahallesi': 490, 'Yalı Mahallesi': 491, 'Yalıköy Mahallesi': 492, 'Yamanevler Mahallesi': 493, 'Yarımburgaz Mahallesi': 494, 'Yassıören Mahallesi': 495, 'Yavuz Selim Mahallesi': 496, 'Yavuz Sultan Selim Mahallesi': 497, 'Yavuztürk Mahallesi': 498, 'Yayalar Mahallesi': 499, 'Yayla Mahallesi': 500, 'Yedikule Mahallesi': 501, 'Yeni Mahalle Mahallesi': 502, 'Yeni Mahallesi': 503, 'Yeni Çamlıca Mahallesi': 504, 'Yenibosna Merkez Mahallesi': 505, 'Yenidoğan Mahallesi': 506, 'Yenigün Mahallesi': 507, 'Yenikent Mahallesi': 508, 'Yeniköy Mahallesi': 509, 'Yenimahalle Mahallesi': 510, 'Yenişehir Mahallesi': 511, 'Yeşilbağlar Mahallesi': 512, 'Yeşilce Mahallesi': 513, 'Yeşilkent Mahallesi': 514, 'Yeşilköy Mahallesi': 515, 'Yeşilova Mahallesi': 516, 'Yeşilpınar Mahallesi': 517, 'Yeşiltepe Mahallesi': 518, 'Yeşilyurt Mahallesi': 519, 'Yukarı Dudullu Mahallesi': 520, 'Yukarı Mahallesi': 521, 'Yunus Emre Mahallesi': 522, 'Yunus Mahallesi': 523, 'Yıldırım Mahallesi': 524, 'Yıldız Mahallesi': 525, 'Yıldıztabya Mahallesi': 526, 'Yıldıztepe Mahallesi': 527, 'Zafer Mahallesi': 528, 'Zekeriyaköy Mahallesi': 529, 'Zeynep Kamil Mahallesi': 530, 'Zeyrek Mahallesi': 531, 'Zeytinlik Mahallesi': 532, 'Ziya Gökalp Mahallesi': 533, 'Zuhuratbaba Mahallesi': 534, 'Zübeyde Hanım Mahallesi': 535, 'Zühtüpaşa Mahallesi': 536, 'Zümrütevler Mahallesi': 537, 'Çakmak Mahallesi': 538, 'Çakmaklı Mahallesi': 539, 'Çamlık Mahallesi': 540, 'Çamçeşme Mahallesi': 541, 'Çanta Balaban Mahallesi': 542, 'Çanta Sancaktepe Mahallesi': 543, 'Çatalmeşe Mahallesi': 544, 'Çatma Mescit Mahallesi': 545, 'Çavuş Mahallesi': 546, 'Çavuşoğlu Mahallesi': 547, 'Çayırbaşı Mahallesi': 548, 'Çağlayan Mahallesi': 549, 'Çeliktepe Mahallesi': 550, 'Çengeldere Mahallesi': 551, 'Çengelköy Mahallesi': 552, 'Çiğdem Mahallesi': 553, 'Çobançeşme Mahallesi': 554, 'Çubuklu Mahallesi': 555, 'Çukur Mahallesi': 556, 'Çınar Mahallesi': 557, 'Çınardere Mahallesi': 558, 'Çırpıcı Mahallesi': 559, 'Çırçır Mahallesi': 560, 'Ömer Avni Mahallesi': 561, 'Ömerli Mahallesi': 562, 'Örnek Mahallesi': 563, 'Örnektepe Mahallesi': 564, 'Ünalan Mahallesi': 565, 'Üniversite Mahallesi': 566, 'Üçevler Mahallesi': 567, 'İcadiye Mahallesi': 568, 'İdealtepe Mahallesi': 569, 'İkitelli OSB Mahallesi': 570, 'İmrahor Mahallesi': 571, 'İnceğiz Mahallesi': 572, 'İncirköy Mahallesi': 573, 'İncirtepe Mahallesi': 574, 'İnkılap Mahallesi': 575, 'İnönü Mahallesi': 576, 'İskenderpaşa Mahallesi': 577, 'İslambey Mahallesi': 578, 'İsmet Paşa Mahallesi': 579, 'İsmetpaşa Mahallesi': 580, 'İstasyon Mahallesi': 581, 'İstiklal Mahallesi': 582, 'İstinye Mahallesi': 583, 'İzzet Paşa Mahallesi': 584, 'İçerenköy Mahallesi': 585, 'İçmeler Mahallesi': 586, 'Şahintepe Mahallesi': 587, 'Şahkulu Mahallesi': 588, 'Şehit Muhtar Mahallesi': 589, 'Şehitler Mahallesi': 590, 'Şehremini Mahallesi': 591, 'Şehsuvar Bey Mahallesi': 592, 'Şemsipaşa Mahallesi': 593, 'Şenlikköy Mahallesi': 594, 'Şerifali Mahallesi': 595, 'Şeyhli Mahallesi': 596, 'Şifa Mahallesi': 597, 'Şirinevler Mahallesi': 598, 'Şirintepe Mahallesi': 599}
+
+
+
+BANYO SAYISI
+
+{1: 0, 2: 1, 3: 2, 4: 3, 5: 4}
+
+
+
+YATIRIMA UYGUNLUK
+
+
+{'Bilinmiyor': 0, 'Yatırıma Uygun': 1, 'Yatırıma Uygun Değil': 2}
+
+
+KULLANIM DURUMU
+
+
+{'Boş': 0, 'Kiracı Oturuyor': 1, 'Mülk Sahibi Oturuyor': 2}
+
+
+KAT SAYISI
+
+{'-1': 0, '-2': 1, '-3': 2, '1': 3, '10-20': 4, '2': 5, '21-29': 6, '3': 7, '30-39': 8, '4': 9, '40': 10, '5': 11, '6': 12, '7': 13, '8': 14, '9': 15, 'Bahçe Dublex': 16, 'Bahçe Katı': 17, 'Bodrum Kat': 18, 'Düz Giriş (Zemin)': 19, 'Giriş': 20, 'Müstakil': 21, 'Villa Tipi': 22, 'Çatı Dubleks': 23, 'Çatı Katı': 24}
+
+
+BANYO SAYISI
+
+{1: 0, 2: 1, 3: 2, 4: 3, 5: 4}
+
+
+
+ODA SAYISI 
+
+
+{1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 6: 5, 7: 6, 8: 7, 9: 8, 10: 9, 12: 10}
+
+
+ISITMA TİPİ 
+
+
+{'Doğalgaz Sobalı': 0, 'Elektrikli Radyatör': 1, 'Fancoil Ünitesi': 2, 'Güneş Enerjisi': 3, 'Isıtma Yok': 4, 'Jeotermal': 5, 'Kat Kaloriferi': 6, 'Klimalı': 7, 'Kombi Doğalgaz': 8, 'Kombi Fueloil': 9, 'Kombi Kömür': 10, 'Merkezi (Pay Ölçer)': 11, 'Merkezi Doğalgaz': 12, 'Merkezi Fueloil': 13, 'Merkezi Kömür': 14, 'Sobalı': 15, 'VRV': 16, 'Yerden Isıtma': 17, 'Şömine': 18}
+
+
+
+KREDİYE UYGUNLUK
+
+
+{'Bilinmiyor': 0, 'Krediye Uygun': 1, 'Krediye Uygun Değil': 2}
+
+
+
+
+YAPI DURUMU 
+
+
+{'Sıfır': 0, 'Yapım Aşamasında': 1, 'İkinci El': 2}
+
+
+
+EŞYA DURUMU
+
+
+
+{'Boş': 0, 'Eşyalı': 1}
+
+
+
+
+SİTE İÇERİSİNDE
+
+
+{'Evet': 0, 'Hayır': 1}
+
+
+
+
+TİPİ
+
+
+{'Daire': 0, 'Devremülk': 1, 'Residence': 2, 'Yalı Dairesi': 3, 'Yazlık': 4}
+
+
+
+
+BİNANIN YAŞI 
+
+
+{'0': 0, '1': 1, '11-15': 2, '16-20': 3, '2': 4, '21 Ve Üzeri': 5, '3': 6, '4': 7, '5-10': 8}
+
+
+
+
+BİNANIN KAT SAYISI 
+
+
+{1: 0, 2: 1, 3: 2, 4: 3, 5: 4, 6: 5, 7: 6, 8: 7, 9: 8, 10: 9, 11: 10, 12: 11, 13: 12, 14: 13, 15: 14, 16: 15, 17: 16, 18: 17, 19: 18, 20: 19, 21: 20, 22: 21, 23: 22, 24: 23, 25: 24, 26: 25, 27: 26, 28: 27, 29: 28, 30: 29, 31: 30, 32: 31, 33: 32, 34: 33, 35: 34, 36: 35, 38: 36, 39: 37, 40: 38, 41: 39, 42: 40, 44: 41, 45: 42, 46: 43, 48: 44, 50: 45, 52: 46, 54: 47, 56: 48, 59: 49, 60: 50, 68: 51, 76: 52, 99: 53}
+
+
+
+KULLANIM DURUMU
+
+
+
+{'Boş': 0, 'Kiracı Oturuyor': 1, 'Mülk Sahibi Oturuyor': 2}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

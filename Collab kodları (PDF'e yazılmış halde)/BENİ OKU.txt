@@ -1,0 +1,18 @@
+
+Sırasıyla uygulanması gereken kodlar =
+
+
+1- VeriSetiDüzenleme
+
+2- VeriAtamaları
+
+3- Model Denemeleri
+
+4- En iyi Değer
+
+5- XGBRegressor
+
+
+
+Not: Veri seti olarak dataset.csv ile çalışılmalıdır diğer verisetleri yazılan kodlar sonucu düzenlenmiş
+olarak exportlanmış verisetleridir.
